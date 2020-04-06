@@ -1,0 +1,17 @@
+[01:28:35] [Server thread/INFO]: Starting minecraft server version 1.9
+[01:28:35] [Server thread/INFO]: Loading properties
+[01:28:35] [Server thread/INFO]: Default game type: SURVIVAL
+[01:28:35] [Server thread/INFO]: Generating keypair
+[01:28:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:28:35] [Server thread/INFO]: Using epoll channel type
+[01:28:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:28:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:28:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:28:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:28:35] [Server thread/INFO]: Preparing level "world"
+[01:28:35] [Server thread/INFO]: Preparing start region for level 0
+[01:28:36] [Server thread/INFO]: Preparing spawn area: 24%
+[01:28:37] [Server thread/INFO]: Preparing spawn area: 85%
+[01:28:37] [Server thread/INFO]: Done (2.304s)! For help, type "help" or "?"
+[01:28:37] [Server thread/INFO]: Starting remote control listener
+[01:28:37] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
